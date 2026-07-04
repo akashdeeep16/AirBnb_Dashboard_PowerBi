@@ -132,4 +132,7 @@ By combining marketplace growth, pricing, market share, and customer feedback in
 ##Snapshot of the dashbaord
 <img width="982" height="736" alt="image" src="https://github.com/user-attachments/assets/2ddb0e91-086a-43e6-998f-5eb2681675e7" />
 
+<img width="980" height="737" alt="image" src="https://github.com/user-attachments/assets/cbbde748-e4ff-4a12-b68c-8e5c5ff6f425" />
+
+
 
